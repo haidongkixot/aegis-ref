@@ -8,4 +8,4 @@
 #
 # The pin lives here rather than inline in the workflow so dependabot's pip
 # ecosystem can see it.
-pyyaml==6.0.3
+pyyaml==6.0.4
